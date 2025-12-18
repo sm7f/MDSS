@@ -22,7 +22,7 @@ echo $XDG_SESSION_TYPE
 
 ---
 
-## 🧠 1️⃣ All-in-One Clipboard Manager – Histórico da Área de Transferência
+## 🧠 1️⃣ ClipBoard Indicator – Histórico da Área de Transferência
 
 ### Instalação
 ```bash
@@ -34,19 +34,11 @@ extension-manager
 ```
 Procure por:
 ```
-All-in-One Clipboard Manager
+Clipboard Indicator
 ```
-Autor: **Maestroschan**  
-Clique em **Instalar**.
 
 ### Atalho (Win + V)
-1. Configurações → Teclado → Atalhos → Personalizados → **Adicionar**  
-2. Nome: `Histórico da Área de Transferência`  
-3. Comando:
-   ```bash
-   gnome-extensions prefs all-in-one-clipboard-manager@maestroschan.fr
-   ```
-4. Atalho: **Super + V**
+Dentro das configurações da extensão possui o campo para alterar o atalho
 
 ---
 
