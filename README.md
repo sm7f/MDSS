@@ -87,7 +87,7 @@ Após reiniciar, todos os aplicativos iniciam automaticamente.
 
 ## 🧑‍💻 Autor
 **Herberth Amorim**  
-Desenvolvedor | Analista de Requisitos | Aspirante a Ethical Hacker  
+Desenvolvedor | Analista de Requisitos | Pentester  
 💼 GitHub: [sm7f](https://github.com/sm7f)
 
 ---
